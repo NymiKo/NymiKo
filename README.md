@@ -9,12 +9,12 @@ I program in Kotlin and have basic knowledge in Android development. Here are so
 - Multithreading: Coroutines
 - Architectural Patterns: MVP, MVVM
 
+### General GitHub activity:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NymiKo)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contacts
 If you have any questions or suggestions, you can contact me via:
 - Email: dimon.kabernik@gmail.com
-
-### General GitHub activity:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NymiKo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Thank You
 Thank you for visiting my Github profile. I hope that my projects and skills will be of interest to you.
